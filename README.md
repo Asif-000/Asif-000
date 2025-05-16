@@ -1,5 +1,8 @@
-# 💫 About Me:
- I'm a passionate Software Developer with a strong focus on JavaScript, React, Next.js, Tailwind CSS, and modern front-end technologies. I enjoy building clean, responsive web interfaces and dynamic user experiences. Currently, I'm working on full-featured websites with custom navigation systems and interactive components.<br><br>🚀 Always learning and experimenting with new tools and frameworks<br><br>
+<h1> <strong>Asif Tazwar</strong></h1>
+<h3><em>✨ Software Developer ✨</em></h3>
+
+## 💫 About Me:
+I'm a passionate Software Developer with a strong focus on JavaScript, React, Next.js, Tailwind CSS, and modern front-end technologies. I enjoy building clean, responsive web interfaces and dynamic user experiences. Currently, I'm working on full-featured websites with custom navigation systems and interactive components.<br><br>🚀 Always learning and experimenting with new tools and frameworks<br><br>
 
 
 ## 🌐 Socials:
